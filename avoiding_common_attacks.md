@@ -1,0 +1,1 @@
+With the desing pattern I believe I used which is known as the Withdraw Pattern it protects against re-entrancy and denial of service attacks.
